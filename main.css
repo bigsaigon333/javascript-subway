@@ -4063,6 +4063,8 @@ rounded {
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
+
+
 .modal {
   opacity: 0;
   visibility: hidden;
@@ -4223,6 +4225,8 @@ form select {
   background-repeat: no-repeat;
 }
 
+
+
 html,
 body {
   margin: 0;
@@ -4275,3 +4279,4 @@ ul li button {
 ul li button:hover {
   background-color: rgb(229, 231, 235);
 }
+
