@@ -105,5 +105,4 @@ dist
 
 # cypress files
 cypress/fixtures/*
-cypress/plugins/*
 cypress/support/*
